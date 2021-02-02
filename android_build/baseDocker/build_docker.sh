@@ -1,0 +1,1 @@
+docker build -t tiwater/android_build_env:14.04 .
